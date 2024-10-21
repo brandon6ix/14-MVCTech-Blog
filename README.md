@@ -32,7 +32,7 @@ SESSION_SECRET='your_session_secret'
 
 ## Usage
 
-After installation, you can access the application by navigating to `http://localhost:3000` in your web browser. From there, you can:
+After installation, you can access the application by navigating to `http://localhost:3001` in your web browser. From there, you can:
 
 - View existing blog posts on the homepage
 - Sign up for an account or log in
@@ -60,18 +60,19 @@ After installation, you can access the application by navigating to `http://loca
 - bcrypt for password hashing
 - dotenv for environment variables
 
-## Screen Shots
-
-
+## Screen Shots and Links
+![TechBlog](./Assets/Screenshot%202024-10-21%20at%2011.28.20 AM.png)
+![TechBlog](./Assets/Screenshot%202024-10-21%20at%2011.28.42 AM.png)
+https://one4-mvctech-blog-2.onrender.com/dashboard
 
 ## Contributing
 
 Contributions to improve Tech Blog are welcome. Please follow these steps to contribute:
 
 1. Fork the repository
-2. Create a new branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
+2. Create a new branch (`git checkout -b feature/your branch`)
+3. Commit your changes (`git commit -m 'your commit message'`)
+4. Push to the branch (`git push origin feature/your branch`)
 5. Open a Pull Request
 
 ## License
